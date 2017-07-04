@@ -1,6 +1,6 @@
 # OrderedDictionaryTools
 
-![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) ![](https://img.shields.io/badge/download-53K-brightgreen.svg
+![](https://img.shields.io/badge/platform-iOS-red.svg) ![](https://img.shields.io/badge/language-Objective--C-orange.svg) ![](https://img.shields.io/badge/download-279K-brightgreen.svg
 ) ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 字典作为无序的集合使用广泛，但是不乏极特殊情况下，我们需要对字典数据进行排序，至少保证展示时顺序的一致性，这里只提供一个思路，感觉功能实现很鸡肋。
@@ -18,7 +18,7 @@
 ```
 #import "OrderDic.h"
 ```
-### 第二步 使用
+### 第二步 简单调用
 ```
 [OrderDic order:dic]
 ```
