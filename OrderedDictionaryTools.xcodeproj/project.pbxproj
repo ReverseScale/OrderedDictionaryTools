@@ -107,11 +107,11 @@
 		3432B2891ECC2250007D5EA2 /* OrderedDictionaryTools */ = {
 			isa = PBXGroup;
 			children = (
+				34A1C8351EFCF8D800BCE1A4 /* OrderDictionary */,
 				3432B28D1ECC2250007D5EA2 /* AppDelegate.h */,
 				3432B28E1ECC2250007D5EA2 /* AppDelegate.m */,
 				3432B2901ECC2250007D5EA2 /* ViewController.h */,
 				3432B2911ECC2250007D5EA2 /* ViewController.m */,
-				34A1C8351EFCF8D800BCE1A4 /* OrderDictionary */,
 				3432B2931ECC2250007D5EA2 /* Main.storyboard */,
 				3432B2961ECC2250007D5EA2 /* Assets.xcassets */,
 				3432B2981ECC2250007D5EA2 /* LaunchScreen.storyboard */,
@@ -225,6 +225,7 @@
 				TargetAttributes = {
 					3432B2861ECC2250007D5EA2 = {
 						CreatedOnToolsVersion = 8.3;
+						DevelopmentTeam = 7QT42R489Z;
 						ProvisioningStyle = Automatic;
 					};
 					3432B29F1ECC2251007D5EA2 = {
@@ -446,6 +447,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = OrderedDictionaryTools/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -458,6 +460,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7QT42R489Z;
 				INFOPLIST_FILE = OrderedDictionaryTools/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";

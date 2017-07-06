@@ -24,11 +24,11 @@
     [self setupStyle];
     
     self.originalDicData = @{@"amount":@"123",
-                 @"bankcode":@"0100101",
-                 @"callbackMode":@"DIR_CALL",
-                 @"expired":@"YEEPAY",
-                 @"expectPayCompany":@"20170516"
-                 };
+                             @"bankcode":@"0100101",
+                             @"callbackMode":@"DIR_CALL",
+                             @"expired":@"YEEPAY",
+                             @"expectPayCompany":@"20170516"
+                             };
     
     self.originalDicTextView.text = [self dictionaryToJson:self.originalDicData];
     
@@ -47,6 +47,9 @@
     self.orderDicTextView.layer.borderColor = [[UIColor lightGrayColor] CGColor];
     self.orderDicTextView.layer.cornerRadius = 9;
     self.orderDicTextView.layer.masksToBounds = YES;
+    
+    self.automaticallyAdjustsScrollViewInsets = NO;
+    [self.orderDicTextView setContentOffset:CGPointZero animated:NO];
 }
 - (NSString *)printWithDictionary:(NSDictionary *)dic {
     NSString *stringDic = [NSString stringWithFormat:@"{\namount = %@;\nbankcode = %@;\ncallbackMode = %@;\nexpired=%@;\nexpectPayCompany=%@\n}",
