@@ -9,7 +9,7 @@
 
 | 名称 |1.列表页 |2.展示页 |3.结果页|
 | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49394070.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49613737.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49394070.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/43197086.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 字典排列前 | 字典排列后 |
 
 ## Requirements 要求
@@ -29,7 +29,6 @@
 
 使用简单、效率高效、进程安全~~~如果你有更好的建议,希望不吝赐教!
 ### 你的star是我持续更新的动力!
-===
 
 ## 联系方式:
 * WeChat : WhatsXie
