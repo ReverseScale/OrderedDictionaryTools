@@ -37,5 +37,3 @@ OrderedDictionaryTools 使用 MIT 许可证，详情见 LICENSE 文件。
 * WeChat : WhatsXie
 * Email : ReverseScale@iCloud.com
 * Blog : https://reversescale.github.io
-
-### 你的star是我持续更新的动力!
