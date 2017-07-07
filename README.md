@@ -5,16 +5,16 @@
 
 字典作为无序的集合使用广泛，但是不乏极特殊情况下，我们需要对字典数据进行排序，至少保证展示时顺序的一致性，这里只提供一个思路，感觉功能实现很鸡肋。
 
-### 我的技术博客：https://reversescale.github.io 欢迎来踩
-
 | 名称 |1.列表页 |2.展示页 |3.结果页|
 | ------------- | ------------- | ------------- | ------------- |
 | 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49394070.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/43197086.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 字典排列前 | 字典排列后 |
 
+
 ## Requirements 要求
 * iOS 7+
 * Xcode 8+
+
 
 ## Usage 使用方法
 ### 第一步 引入头文件
@@ -36,6 +36,6 @@ OrderedDictionaryTools 使用 MIT 许可证，详情见 LICENSE 文件。
 ## Contact 联系方式:
 * WeChat : WhatsXie
 * Email : ReverseScale@iCloud.com
-* QQ : 1129998515
+* Blog : https://reversescale.github.io
 
 ### 你的star是我持续更新的动力!
