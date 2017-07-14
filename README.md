@@ -10,6 +10,12 @@
 | 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49394070.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/43197086.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 字典排列前 | 字典排列后 |
 
+## Advantage 框架的优势
+* 1.文件少，代码简洁
+* 2.不依赖任何其他第三方库
+* 3.基于C的内部高度封装实现
+* 4.Demo展示表现好，学习曲线优良
+* 5.具备较高自定义性
 
 ## Requirements 要求
 * iOS 7+
