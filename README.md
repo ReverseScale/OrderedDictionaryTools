@@ -10,6 +10,14 @@
 | 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-24/84674805.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/43197086.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
 | 描述 | 通过 storyboard 搭建基本框架 | 字典排列前 | 字典排列后 |
 
+## Update 更新
+之前由于自己了解的不够，不清楚还有 DictionaryLiteral 这种 Dictionary，DictionaryLiteral 是一种能够克服 Dictionary 的随机乱序和自动去重的键值对，具体使用和字典类似：
+```Swift
+let dicLer:DictionaryLiteral = [1:"jone", 2:"Anee"]
+print("DictionaryLiteral：\(dicLer)")
+```
+![](http://og1yl0w9z.bkt.clouddn.com/17-10-30/44168267.jpg)
+
 ## Advantage 框架的优势
 * 1.文件少，代码简洁
 * 2.不依赖任何其他第三方库
